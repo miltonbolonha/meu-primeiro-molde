@@ -12,7 +12,7 @@ Este repositório serve como ponto de partida para nossas atividades pedagógica
 
 # Como Iniciar?
 
-Eu preparei para você interagir com este capítulo, uma arquitetura de projeto real, que servirá como o seu primeiro molde.
+Eu preparei para você uma arquitetura de projeto real, que servirá como o seu primeiro molde.
 É um repositório GitHub que serve como ponto de partida para as nossas atividades pedagógicas no campo da programação, com foco no desenvolvimento de aplicações web modernas e na hospedagem serverless do GitHub Pages. 
 Os nossos passos para experimentar essa tecnologia serão:
 
